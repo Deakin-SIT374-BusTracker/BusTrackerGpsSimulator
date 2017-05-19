@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Deakin - Gelong | GPS Simulator</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+         #map_canvas {
+             width: 100%;
+             height: 100%;
+         }
+
+         html,
+         body {
+             height: 100%;
+             margin: 0;
+             padding: 0;
+         }
+    </style>
+
+    <!-- Google Map API v3-->
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqZFelSFhnk3JDbFVx7qovf8IIG1ZViVs"></script>
+
+    <!-- Google Map Polygon Extension -->
+    <script type="text/javascript" src="js/map-epoly.js"></script>
+
+    <!-- Map Icons -->
+    <link rel="stylesheet" type="text/css" href="css/map-icons.css">
+    <script type="text/javascript" src="js/map-icons.js"></script>
+
+    <!-- Map Simulation JavaScript-->
+    <script type="text/javascript" src="js/map-simulator.js"></script>
+</head>
+
+<body onload="initializeMap()">
+    <input type="button" onclick="startSimulation()" value="Start Simulation" />
+    <input type="button" onclick="stopSimulation()" value="Stop Simulation" />
+    <div id="map_canvas"></div>
+</body>
+
+</html>

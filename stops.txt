@@ -1,0 +1,372 @@
+{
+  "stops": [
+    {
+      "stop_name": "Abervale Retirement Village/Church St",
+      "stop_id": 15853,
+      "route_type": 2,
+      "stop_latitude": -38.19619,
+      "stop_longitude": 144.33046
+    },
+    {
+      "stop_name": "Autumn St/Torquay Rd",
+      "stop_id": 15715,
+      "route_type": 2,
+      "stop_latitude": -38.1856,
+      "stop_longitude": 144.34436
+    },
+    {
+      "stop_name": "Barwon Tce/Moorabool St",
+      "stop_id": 15331,
+      "route_type": 2,
+      "stop_latitude": -38.163475,
+      "stop_longitude": 144.353409
+    },
+    {
+      "stop_name": "Belmont Centrepoint Arcade/High St",
+      "stop_id": 29438,
+      "route_type": 2,
+      "stop_latitude": -38.1724968,
+      "stop_longitude": 144.345352
+    },
+    {
+      "stop_name": "Belmont Grange Aged Care/Church St",
+      "stop_id": 15851,
+      "route_type": 2,
+      "stop_latitude": -38.19655,
+      "stop_longitude": 144.3378
+    },
+    {
+      "stop_name": "Belmont Shopping Village/High St",
+      "stop_id": 11359,
+      "route_type": 2,
+      "stop_latitude": -38.1700668,
+      "stop_longitude": 144.348251
+    },
+    {
+      "stop_name": "Brentwood Way/Ghazeepore Rd",
+      "stop_id": 26423,
+      "route_type": 2,
+      "stop_latitude": -38.2117424,
+      "stop_longitude": 144.301712
+    },
+    {
+      "stop_name": "Burdoo Dr/Church St",
+      "stop_id": 15852,
+      "route_type": 2,
+      "stop_latitude": -38.1960068,
+      "stop_longitude": 144.333542
+    },
+    {
+      "stop_name": "Cameron Park/High St",
+      "stop_id": 15471,
+      "route_type": 2,
+      "stop_latitude": -38.16849,
+      "stop_longitude": 144.349609
+    },
+    {
+      "stop_name": "Church St/Pioneer Rd",
+      "stop_id": 15525,
+      "route_type": 2,
+      "stop_latitude": -38.2012825,
+      "stop_longitude": 144.327454
+    },
+    {
+      "stop_name": "Deakin University/Alfred Deakin Dr",
+      "stop_id": 15335,
+      "route_type": 2,
+      "stop_latitude": -38.1985359,
+      "stop_longitude": 144.30014
+    },
+    {
+      "stop_name": "Eden Ct/Ghazeepore Rd",
+      "stop_id": 19209,
+      "route_type": 2,
+      "stop_latitude": -38.20561,
+      "stop_longitude": 144.302887
+    },
+    {
+      "stop_name": "Evans St/Corio St",
+      "stop_id": 15625,
+      "route_type": 2,
+      "stop_latitude": -38.1779861,
+      "stop_longitude": 144.345016
+    },
+    {
+      "stop_name": "Ficinia Mews/Pigdons Rd",
+      "stop_id": 32493,
+      "route_type": 2,
+      "stop_latitude": -38.2001266,
+      "stop_longitude": 144.305328
+    },
+    {
+      "stop_name": "Fyans St/Moorabool St",
+      "stop_id": 15327,
+      "route_type": 2,
+      "stop_latitude": -38.16136,
+      "stop_longitude": 144.354416
+    },
+    {
+      "stop_name": "Geelong Homemaker Centre/Princes Hwy",
+      "stop_id": 22352,
+      "route_type": 2,
+      "stop_latitude": -38.20259,
+      "stop_longitude": 144.305923
+    },
+    {
+      "stop_name": "Geelong Railway Station/Railway Tce",
+      "stop_id": 27930,
+      "route_type": 2,
+      "stop_latitude": -38.14525,
+      "stop_longitude": 144.355118
+    },
+    {
+      "stop_name": "Grange Park Dr/Ghazeepore Rd",
+      "stop_id": 26424,
+      "route_type": 2,
+      "stop_latitude": -38.2084846,
+      "stop_longitude": 144.3023
+    },
+    {
+      "stop_name": "Grove Rd/Torquay Rd",
+      "stop_id": 15691,
+      "route_type": 2,
+      "stop_latitude": -38.1933022,
+      "stop_longitude": 144.342651
+    },
+    {
+      "stop_name": "Grovedale Cemetery/Church St",
+      "stop_id": 17795,
+      "route_type": 2,
+      "stop_latitude": -38.1968575,
+      "stop_longitude": 144.3411
+    },
+    {
+      "stop_name": "Heyers Rd/Rossack Dr",
+      "stop_id": 29018,
+      "route_type": 2,
+      "stop_latitude": -38.21003,
+      "stop_longitude": 144.311462
+    },
+    {
+      "stop_name": "Ironbark St/Rossack Dr",
+      "stop_id": 24152,
+      "route_type": 2,
+      "stop_latitude": -38.2134056,
+      "stop_longitude": 144.310852
+    },
+    {
+      "stop_name": "Kardinia Park & Ride/Moorabool St",
+      "stop_id": 14526,
+      "route_type": 2,
+      "stop_latitude": -38.1594658,
+      "stop_longitude": 144.35524
+    },
+    {
+      "stop_name": "Kardinia Park/Moorabool St",
+      "stop_id": 15322,
+      "route_type": 2,
+      "stop_latitude": -38.1574669,
+      "stop_longitude": 144.355942
+    },
+    {
+      "stop_name": "Kidman Ave/Torquay Rd",
+      "stop_id": 15709,
+      "route_type": 2,
+      "stop_latitude": -38.18495,
+      "stop_longitude": 144.344208
+    },
+    {
+      "stop_name": "Kilgour St/Moorabool St",
+      "stop_id": 15297,
+      "route_type": 2,
+      "stop_latitude": -38.1552,
+      "stop_longitude": 144.357224
+    },
+    {
+      "stop_name": "Little Myers St/Moorabool St",
+      "stop_id": 15292,
+      "route_type": 2,
+      "stop_latitude": -38.15226,
+      "stop_longitude": 144.358566
+    },
+    {
+      "stop_name": "Lloyd St/Corio St",
+      "stop_id": 15617,
+      "route_type": 2,
+      "stop_latitude": -38.1779976,
+      "stop_longitude": 144.344818
+    },
+    {
+      "stop_name": "Lonsdale St/Moorabool St",
+      "stop_id": 30520,
+      "route_type": 2,
+      "stop_latitude": -38.1571426,
+      "stop_longitude": 144.356277
+    },
+    {
+      "stop_name": "Mandama PS/Church St",
+      "stop_id": 15858,
+      "route_type": 2,
+      "stop_latitude": -38.1992569,
+      "stop_longitude": 144.327164
+    },
+    {
+      "stop_name": "Maud St/Moorabool St",
+      "stop_id": 31662,
+      "route_type": 2,
+      "stop_latitude": -38.15463,
+      "stop_longitude": 144.357224
+    },
+    {
+      "stop_name": "McKillop St/Moorabool St",
+      "stop_id": 15499,
+      "route_type": 2,
+      "stop_latitude": -38.15308,
+      "stop_longitude": 144.357925
+    },
+    {
+      "stop_name": "Meadowvale Dr/Rossack Dr",
+      "stop_id": 31860,
+      "route_type": 2,
+      "stop_latitude": -38.2046,
+      "stop_longitude": 144.312454
+    },
+    {
+      "stop_name": "Monterey Dr/Ghazeepore Rd",
+      "stop_id": 23007,
+      "route_type": 2,
+      "stop_latitude": -38.2074738,
+      "stop_longitude": 144.302643
+    },
+    {
+      "stop_name": "Monterey Dr/Rossack Dr",
+      "stop_id": 29019,
+      "route_type": 2,
+      "stop_latitude": -38.2075348,
+      "stop_longitude": 144.311966
+    },
+    {
+      "stop_name": "Moorabool Street Bus Interchange/Moorabool St",
+      "stop_id": 30268,
+      "route_type": 2,
+      "stop_latitude": -38.1485825,
+      "stop_longitude": 144.3601
+    },
+    {
+      "stop_name": "Mount Pleasant Rd/High St",
+      "stop_id": 25853,
+      "route_type": 2,
+      "stop_latitude": -38.1715355,
+      "stop_longitude": 144.3465
+    },
+    {
+      "stop_name": "Natika Ct/Church St",
+      "stop_id": 14981,
+      "route_type": 2,
+      "stop_latitude": -38.1966972,
+      "stop_longitude": 144.32785
+    },
+    {
+      "stop_name": "Oakwood Cres/Ghazeepore Rd",
+      "stop_id": 26421,
+      "route_type": 2,
+      "stop_latitude": -38.2115173,
+      "stop_longitude": 144.3019
+    },
+    {
+      "stop_name": "Oakwood Cres/Sugargum Dr",
+      "stop_id": 30237,
+      "route_type": 2,
+      "stop_latitude": -38.2154655,
+      "stop_longitude": 144.30365
+    },
+    {
+      "stop_name": "Oberon Dr/Torquay Rd",
+      "stop_id": 15692,
+      "route_type": 2,
+      "stop_latitude": -38.18911,
+      "stop_longitude": 144.343414
+    },
+    {
+      "stop_name": "Oberon Primary School/Torquay Rd",
+      "stop_id": 15616,
+      "route_type": 2,
+      "stop_latitude": -38.1802177,
+      "stop_longitude": 144.3452
+    },
+    {
+      "stop_name": "Param St/Church St",
+      "stop_id": 28623,
+      "route_type": 2,
+      "stop_latitude": -38.1960335,
+      "stop_longitude": 144.3349
+    },
+    {
+      "stop_name": "Park Cres/Moorabool St",
+      "stop_id": 15473,
+      "route_type": 2,
+      "stop_latitude": -38.16107,
+      "stop_longitude": 144.3543
+    },
+    {
+      "stop_name": "Pioneer Rd/Princes Hwy",
+      "stop_id": 15675,
+      "route_type": 2,
+      "stop_latitude": -38.19745,
+      "stop_longitude": 144.317886
+    },
+    {
+      "stop_name": "Pit St/Rossack Dr",
+      "stop_id": 29059,
+      "route_type": 2,
+      "stop_latitude": -38.2086754,
+      "stop_longitude": 144.31192
+    },
+    {
+      "stop_name": "Regent St/High St",
+      "stop_id": 15502,
+      "route_type": 2,
+      "stop_latitude": -38.1731,
+      "stop_longitude": 144.344849
+    },
+    {
+      "stop_name": "Roslyn Rd/High St",
+      "stop_id": 4020,
+      "route_type": 2,
+      "stop_latitude": -38.1751976,
+      "stop_longitude": 144.342682
+    },
+    {
+      "stop_name": "Waratah Pl/Church St",
+      "stop_id": 15850,
+      "route_type": 2,
+      "stop_latitude": -38.1968346,
+      "stop_longitude": 144.34021
+    },
+    {
+      "stop_name": "Waurn Ponds SC/Colac Rd",
+      "stop_id": 21759,
+      "route_type": 2,
+      "stop_latitude": -38.1987572,
+      "stop_longitude": 144.315079
+    },
+    {
+      "stop_name": "Waurn Ponds Shopping Centre/Pioneer Rd",
+      "stop_id": 15524,
+      "route_type": 2,
+      "stop_latitude": -38.19777,
+      "stop_longitude": 144.319763
+    },
+    {
+      "stop_name": "Waurn Ponds Station/Sugargum Dr",
+      "stop_id": 31859,
+      "route_type": 2,
+      "stop_latitude": -38.2154732,
+      "stop_longitude": 144.306046
+    }
+  ],
+  "status": {
+    "version": "3.0",
+    "health": 1
+  }
+}

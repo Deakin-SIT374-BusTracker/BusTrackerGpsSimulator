@@ -1,0 +1,51 @@
+{
+  "stops": [
+    {
+      "stop_name": "Deakin University/Alfred Deakin Dr",
+      "stop_id": 15335,
+      "route_type": 2,
+      "stop_latitude": -38.1985359,
+      "stop_longitude": 144.30014
+    },{
+      "stop_name": "Waurn Ponds Station/Sugargum Dr",
+      "stop_id": 31859,
+      "route_type": 2,
+      "stop_latitude": -38.2154732,
+      "stop_longitude": 144.306046
+    },{
+      "stop_name": "Waurn Ponds Shopping Centre/Pioneer Rd",
+      "stop_id": 15524,
+      "route_type": 2,
+      "stop_latitude": -38.19777,
+      "stop_longitude": 144.319763
+    },{
+      "stop_name": "Highton Library/Roslyn Rd",
+      "stop_id": 30732,
+      "route_type": 2,
+      "stop_latitude": -38.173136,
+      "stop_longitude":  144.323197
+    },{
+      "stop_name": "Roslyn Rd/High St",
+      "stop_id": 4020,
+      "route_type": 2,
+      "stop_latitude": -38.1751976,
+      "stop_longitude": 144.342682
+    },{
+      "stop_name": "Moorabool Street Bus Interchange/Moorabool St",
+      "stop_id": 30268,
+      "route_type": 2,
+      "stop_latitude": -38.1485825,
+      "stop_longitude": 144.3601
+    },{
+      "stop_name": "Geelong Railway Station/Railway Tce",
+      "stop_id": 27930,
+      "route_type": 2,
+      "stop_latitude": -38.14525,
+      "stop_longitude": 144.355118
+    }
+  ],
+  "status": {
+    "version": "3.0",
+    "health": 1
+  }
+}
