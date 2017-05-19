@@ -235,9 +235,9 @@ function animate(d) {
     console.log("Lat: " + marker.getPosition().lat() + ", Lng: " + marker.getPosition().lng());
 	
 	var APIPost = new XMLHttpRequest();
-	APIPost.open("POST", "http://bustrackerweb.azurewebsites.net/api/Bus/PutBusOnRouteLocation", false);
+	APIPost.open("PUT", "http://bustrackerweb.azurewebsites.net/api/Bus/PutBusOnRouteLocation", false);
 	APIPost.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-	APIPost.send("BusRegoNumber=&BusLongitude=" + marker.getPosition().lat() + "&BusLatitude=" + marker.getPosition().lng() +"&RouteId=41");
+	APIPost.send("BusRegoNumber=YCT-200&BusLongitude=" + marker.getPosition().lat() + "&BusLatitude=" + marker.getPosition().lng() + "&RouteId=10846");
 	
     if (d > eol) {
         map.panTo(endLocation.latlng);
